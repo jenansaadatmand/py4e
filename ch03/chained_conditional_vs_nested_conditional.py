@@ -27,7 +27,7 @@ else:
 
  
     
-# code is simplified using logical operators (and, or, not) 
+# Code is simplified using logical operators (and, or, not) 
 
 if 0 < x:
     if x < 10:
