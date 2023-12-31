@@ -1,4 +1,4 @@
-# Exercise 5: Program prompts user for a Celsius temperature, 
+# Exercise 5: The program prompts user for a Celsius temperature, 
 # Convert the temperature to Fahrenheit, 
 # And print out the converted temperature
 
