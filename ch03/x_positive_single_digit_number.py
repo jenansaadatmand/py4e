@@ -16,7 +16,7 @@ else:
 print()
 
 # We can get the same effect of this nested conditional if statement in if statement 
-# by using the logical boolean and operator
+# By using the logical boolean and operator
         
 if 0 <= x and x <= 10:
      print('x is a positive single_digit number')
