@@ -52,7 +52,7 @@ else:
     print("F") 
 
 
-# Solution for autograder on website: 
+# Solution for Autograder on website: 
     
 # Write a program to prompt for a score between 0.0 and 1.0. 
 # If the score is out of range, print an error. 
