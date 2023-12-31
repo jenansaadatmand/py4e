@@ -35,7 +35,7 @@ if 0 < x:
 
 print() 
 
-# The print statement is excuted only if we make it past both conditionals in this nested conditional  
+# The print statement is executed only if we make it past both conditionals in this nested conditional  
 # We can get same effect if we used the logical boolean and operator
 
 if 0 < x and x < 10:
