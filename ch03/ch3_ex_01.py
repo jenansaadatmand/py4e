@@ -50,7 +50,7 @@ print("Pay:", xp)
 
 
 
-# solution 4:
+# Solution 4:
 
 hrs = float(input("Enter hours:\n"))
 rate = float(input("Enter rate:\n"))
