@@ -33,7 +33,7 @@ print("Pay:", xp)
 
 
 
-# Solution # 2:
+# Solution 2:
 
 try:
     hrs = float(input("Enter Hours:\n"))
