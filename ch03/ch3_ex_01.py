@@ -61,8 +61,3 @@ else:
     print("Regular")
     pay = hrs * rate
 print("Pay: ", pay)
-
-
-
-
-
