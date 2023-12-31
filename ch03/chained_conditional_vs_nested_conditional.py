@@ -1,4 +1,4 @@
-# Chapter 3 page 51 & 53 examples 
+# Chapter 3 pages 51 & 53 examples 
 # Chained (if, elif, else) conditional versus nested (if, else (if, else)) conditional
 
 
