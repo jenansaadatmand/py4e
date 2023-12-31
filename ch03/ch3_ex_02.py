@@ -11,7 +11,7 @@
 # Error, please enter numeric input 
 
 
-#Solution 1:
+# Solution 1:
 
 sh = input("Enter Hours:") # sh = string hours
 sr = input("Enter Rate:") # sr = string rate
