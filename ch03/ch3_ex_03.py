@@ -25,7 +25,7 @@
 # F
 
 # Run the program repeatedly as shown 
-# to test the various different values for input
+# to test the various values for input
 
 
 # If the user enters a value out of range, 
