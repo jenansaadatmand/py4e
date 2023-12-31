@@ -5,7 +5,7 @@
 x = 5
 y = 10
 
-# code in chained conditional 
+# Code in chained conditional 
  
 if x < y:
     print('x is less than y')
