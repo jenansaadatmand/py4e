@@ -15,7 +15,7 @@ else:
     print('x and y are equal')
 
 
-# code in nested conditional
+# Code in nested conditional
 
 if x == y:
     print('x and y are equal')
