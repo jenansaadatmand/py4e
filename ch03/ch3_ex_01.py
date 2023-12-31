@@ -4,7 +4,7 @@
 # Enter Rate: 10
 # Pay: 475.0
 
-# solution # 1
+# Solution # 1
 sh = input("Enter Hours:") # sh = string hours
 sr = input("Enter Rate:") # sr = string rate
 fh = float(sh) # fh = float hours 
