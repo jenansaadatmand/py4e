@@ -32,7 +32,7 @@ else:
 print("Pay:", xp)
 
 
-# Solution # 3
+# Solution 3:
 sh = input("Enter Hours:")
 sr = input("Enter Rate:")
 fh = float(sh)
