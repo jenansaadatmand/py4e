@@ -1,6 +1,6 @@
 # Exercise 2: 
 # Rewrite your pay program using try and except 
-# so that your program handles non-numeric input gracefully
+# So that your program handles non-numeric input gracefully
 # by printing a message and exiting the program
 # the following shows two executions of the program:
 # Enter Hours: 20
