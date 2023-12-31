@@ -11,7 +11,7 @@ if 0 <= x:
     elif x >10:
         print('x is larger than 10')
 else: 
-        print('x is a negative nmber')    
+        print('x is a negative number')    
 
 print()
 
