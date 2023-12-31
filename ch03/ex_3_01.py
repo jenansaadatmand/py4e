@@ -8,7 +8,7 @@
 # Do not worry about error-checking the user input - assume the user types numbers properly.
 
 
-# solution 1:
+# Solution 1:
 hrs = input("Enter Hours:")
 h = float(hrs)
 rate = input("Enter Rate:")
