@@ -3,7 +3,7 @@
 # Enter Hours: 35
 # Enter Rate: 2.75
 # Pay: 96.25
-# you should use input to read a string and float() to convert the string to a number.
+# You should use input to read a string and float() to convert the string to a number.
 # do not worry about error checking or bad user data.
 
 hrs = float(input("Enter Hours: "))
