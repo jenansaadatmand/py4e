@@ -1,6 +1,6 @@
 # Exercise 5: Program prompts user for a Celsius temperature, 
 # Convert the temperature to Fahrenheit, 
-# and print out the converted temperature
+# And print out the converted temperature
 
 Celsius = input("Enter temperature in Degree Celsius: ")
 Celsius = int(Celsius)
