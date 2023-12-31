@@ -1,5 +1,5 @@
 # Chapter 3 quiz: In the following code(numbers added)
-# which will be the last line to execute successfully ?
+# Which will be the last line to execute successfully ?
 # answer: line # 1 in the code 
 
 astr = 'Hello Bob'  # string value
