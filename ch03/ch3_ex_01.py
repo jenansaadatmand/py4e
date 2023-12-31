@@ -1,4 +1,4 @@
-# Exercise 1: rewrite exercise ex_2_3.py, pay computation 
+# Exercise 1: Rewrite exercise ex_2_3.py, pay computation 
 # to give the employee 1.5 times the hourly rate for hours worked above 40 hours
 # Enter Hours: 45
 # Enter Rate: 10
