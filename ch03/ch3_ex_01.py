@@ -18,7 +18,7 @@ else:
 print("Pay:", xp)
 
 
-# Solution # 2 autograder
+# Solution 2 Autotrader:
 hrs = input("Enter Hours:")
 h = float(hrs)
 rate = input("Enter Rate:")
