@@ -1,5 +1,5 @@
 # try except error handling:
-# Program that converts temperature Fahrenheit to celsius 
+# Program that converts temperature Fahrenheit to Celsius 
 
 temp = 32 #"5 degrees" # string
 cel = 0
