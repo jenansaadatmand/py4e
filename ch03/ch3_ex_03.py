@@ -67,7 +67,7 @@ else:
 # If the user enters a value out of range, 
 # Print a suitable error message and exit. 
 # For the test, enter a score of 0.85.   
-# desired output is B 
+# Desired output is B 
          
 
 score = input("Enter Score: ")
