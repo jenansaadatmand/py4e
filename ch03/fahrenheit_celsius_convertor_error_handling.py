@@ -10,6 +10,3 @@ except:
     print('Error, enter a numerical number')
     quit()
 print(cel)
-
-
-
